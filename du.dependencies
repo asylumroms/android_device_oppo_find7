@@ -1,0 +1,16 @@
+[
+  {
+    "repository":   "android_device_oppo_msm8974-common",
+    "target_path":  "device/oppo/msm8974-common",
+    "branch":       "m-caf"
+  {
+    "repository":   "android_kernel_oppo_msm8974",
+    "target_path":  "kernel/oneplus/msm8974",
+    "branch":       "m-caf"
+  },
+  {
+    "repository":   "android_vendor_oppo",
+    "target_path":  "vendor/oppo",
+    "branch":       "m-caf"
+  }
+]
